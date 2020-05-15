@@ -1,6 +1,6 @@
 # Description
 
-This is a music visualization of Grimes' "Delete Forevere". It is the 
+This is a music visualization of Grimes' "Delete Forever". It is the 
 first one after I moved a number of recurring classes to an 
 openFrameworks addon, 
 [ofxMusicVisualization](https://github.com/gevhaz/ofxMusicVisualizationKit).
