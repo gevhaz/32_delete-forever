@@ -21,14 +21,6 @@ run. Clone it to your addons folder:
 git clone https://github.com/gevhaz/ofxMusicVisualizationKit.git
 ```
 
-The make sure you have the line:
-
-```
-#include "ofxMusicVisualizationKit.hpp"
-```
-
-in your `ofApp.h`.
-
 Keyboard shortcuts for playback:
 
 *   Space key: Start the music playback.
